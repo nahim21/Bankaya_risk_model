@@ -1,0 +1,53 @@
+{
+  "Personal Loans": [
+    "PRESTAMO PERSONAL",
+    "CREDITO PERSONAL AL CONSUMO",
+    "CREDITO AL CONSUMO",
+    "PRESTAMO DE NOMINA",
+    "PRESTAMO PERSONAL BANCARIO",
+    "PRESTAMO NO GARANTIZADO",
+    "PRESTAMO QUIROGRAFARIO"
+  ],
+  "Credit Cards": [
+    "TARJETA DE CREDITO",
+    "TARJETA DEPARTAMENTAL"
+  ],
+  "Mortgages and Real Estate": [
+    "HIPOTECARIO O VIVIENDA",
+    "BIENES RAICES",
+    "ARRENDAMIENTO"
+  ],
+  "Automotive Loans": [
+    "COMPRA DE AUTOMOVIL",
+    "ARRENDAMIENTO AUTOMOTRIZ",
+    "AUTOMOTRIZ BANCARIO"
+  ],
+  "Business Loans": [
+    "FISICA ACTIVIDAD EMPRESARIAL",
+    "PRESTAMO EMPRESARIAL",
+    "BANCA COMERCIAL",
+    "FACTORAJE"
+  ],
+  "Asset Financing": [
+    "APARATOS/MUEBLES",
+    "EQUIPO",
+    "FONDEO FIRA"
+  ],
+  "Miscellaneous": [
+    "LINEA DE CREDITO",
+    "OTROS",
+    "NO DISPONIBLE",
+    "CREDITO FISCAL",
+    "MEJORAS A LA CASA",
+    "FIANZA",
+    "CONSOLIDACION",
+    "GRUPO SOLIDARIO",
+    "DESCONOCIDO"
+  ],
+  "Student Loans": [
+    "PRESTAMO PARA ESTUDIANTE"
+  ],
+  "None": [
+    null
+  ]
+}
